@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace GenericsIntro
-{
+{//arka plandakı calısan list komutunun yazılımları(manuel)
     class MyList<T> //kendi listemizde string int vs olsun diye T diyoruz
     {
         T[] items;
